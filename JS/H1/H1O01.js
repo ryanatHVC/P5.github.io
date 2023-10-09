@@ -9,7 +9,7 @@ function draw() {
   // groene cirkel zonder rand
   
   noStroke();
-  fill('green');
+  fill('yellow');
   ellipse(300,200,100);
   
   // witte rechthoek met rode rand
